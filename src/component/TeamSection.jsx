@@ -1,56 +1,56 @@
 import { Linkedin } from "lucide-react";
 
-import ukr1 from "../assets/aadi.jpeg";
-import ukr2 from "../assets/ukr2.jpg";
-import ukr3 from "../assets/ukr3.jpg";
-import ukr4 from "../assets/ukr4.jpg";
-import ukr5 from "../assets/ukr5.jpg";
-import ukr6 from "../assets/ukr6.jpg";
-import ukr7 from "../assets/ukr7.jpg";
+// import ukr1 from "../assets/aadi.jpeg";
+// import ukr2 from "../assets/ukr2.jpg";
+// import ukr3 from "../assets/ukr3.jpg";
+// import ukr4 from "../assets/ukr4.jpg";
+// import ukr5 from "../assets/ukr5.jpg";
+// import ukr6 from "../assets/ukr6.jpg";
+// import ukr7 from "../assets/ukr7.jpg";
 
 const TeamSection = () => {
   const team = [
     {
       name: "Shamsad Ahmed",
       role: "Backend Developer",
-      img: ukr2,
+      img: "",
       linkedin: "https://www.linkedin.com",
     },
     {
       name: "Aditya Singh",
       role: "Frontend Developer",
-      img: ukr1,
+      img: "",
       linkedin:
         "https://www.linkedin.com/in/aaditya212817?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     },
     {
       name: "Nandini",
       role: "UI/UX Designer",
-      img: ukr3,
+      img: "",
       linkedin: "https://www.linkedin.com",
     },
     {
       name: "Divyanshu",
       role: "Backend developer",
-      img: ukr4,
+      img: "",
       linkedin: "https://www.linkedin.com",
     },
     {
       name: "Aditya Singh",
       role: "Frontend Developer",
-      img: ukr5,
+      img: "",
       linkedin: "https://www.linkedin.com",
     },
     {
       name: "Deepanshu",
       role: "Backend developer",
-      img: ukr6,
+      img: "",
       linkedin: "https://www.linkedin.com",
     },
     {
       name: "Nandini",
       role: "UI/UX Designer",
-      img: ukr7,
+      img: "",
       linkedin: "https://www.linkedin.com",
     },
   ];
